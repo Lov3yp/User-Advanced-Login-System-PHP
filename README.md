@@ -1,6 +1,6 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/RTbG1cr/91314138.png" alt="91314138" border="0"></a>
+<a href="https://mvods.com/lov3yp"><img src="https://i.ibb.co/RTbG1cr/91314138.png" alt="91314138" border="0"></a>
 
-Heloo
+Helo what's up dude read by the name of creator lov3yp :D
 
 This script is inspired by Lov3yp#2018 And Burak karahan
 
@@ -13,7 +13,7 @@ Installation steps:
 3- Finally login and it will work, open source login system is over.
 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/bdxTNdB/unknown.png" alt="unknown" border="0"></a>
+<a href="https://mvods.com/lov3yp"><img src="https://i.ibb.co/bdxTNdB/unknown.png" alt="unknown" border="0"></a>
 
 
 
