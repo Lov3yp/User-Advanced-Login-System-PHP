@@ -2,7 +2,7 @@
 
 $sname= "localhost";
 $unmae= "aimlityc_proje2";
-$password = "*e9_wQ7K31y+";
+$password = "";
 
 $db_name = "aimlityc_proje2";
 
